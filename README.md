@@ -17,5 +17,5 @@ Link to the FCC challenge: https://www.freecodecamp.org/challenges/build-a-rando
  Markup/stylesheets/scripting:  
  
  -html  
- -css
- -plain javascript 
+ -css  
+ -javascript 
